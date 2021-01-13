@@ -1,0 +1,61 @@
+
+html,body{
+    height:100%;
+    width:100%;
+}
+body{
+    background: linear-gradient(to left, pink  50%,rgba(224, 10, 64, 0.781) 50%);
+}
+
+.general_container{
+    height:100vh;
+}
+
+
+.title{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.middle_image{
+    width:100px;
+    height:100px;
+    background: yellow;
+    display: flex;
+    justify-content: center;
+}
+.icons_group{
+    margin: 200px 15px 0 0;
+}
+
+.fa-instagram, .fa-twitter-square, .fa-bell, .fa-envelope{
+    font-size: 18px;
+    padding: 3px;
+    margin: 10px;
+    background: white;
+    border-radius: 3px;
+}
+
+.central_pink{
+    margin-top: 20px;
+    background:pink;
+    height:450px;
+    width:30%;
+    box-shadow: 2px 3px 5px 6px rgb(0,0,0,0.4);
+
+}
+
+.card_image{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+
+}
+
+.card_icon{
+    width:50px;
+    height: 50px;
+    object-fit:cover;
+    border-radius: 34px;
+}
+
