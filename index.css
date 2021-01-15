@@ -37,7 +37,7 @@ body{
 }
 
 .central_pink{
-    margin-top: 20px;
+    /* margin-top: 20px; */
     background:pink;
     height:450px;
     width:30%;
@@ -57,4 +57,12 @@ body{
     height: 50px;
     object-fit:cover;
     border-radius: 34px;
+}
+
+.rambo{
+    background: yellow;
+}
+
+.icons_group{
+    margin-left: 30%;
 }
