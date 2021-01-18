@@ -11,7 +11,6 @@ body{
     height:100vh;
 }
 
-
 .title{
     text-align: center;
     padding-top: 30px;
@@ -37,7 +36,6 @@ body{
 }
 
 .central_pink{
-    /* margin-top: 20px; */
     background:pink;
     height:450px;
     width:30%;
@@ -47,7 +45,7 @@ body{
 
 .card_image{
     width:100%;
-    height:100%;
+    height:400px;
     object-fit:cover;
 
 }
@@ -63,6 +61,6 @@ body{
     background: yellow;
 }
 
-.icons_group{
-    margin-left: 30%;
+.white{
+    color:white;
 }
